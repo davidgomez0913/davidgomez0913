@@ -13,10 +13,10 @@ tengo conocimientos y habilidades como; Desarrollo Backend usando Ruby, desarrol
 
 ### :mortar_board: Estudios :neckbeard:
 
-- Ingeniero Mecatronico - Universidad Piloto de colombia :school:
+- Ingeniero Mecatronico - Universidad Piloto de Colombia :school:
 - Bootcamp Desarrollador FullStack - BogotaDEV :school:
-- Curso de HTML y CSS :small_orange_diamond::small_blue_diamond:
-- Curso de Git y GitHub 
+- Curso de HTML y CSS :pencil::art:
+- Curso de Git y GitHub :cat:
 - Curso de JS :eight_pointed_black_star:
 - Curso de React :snowflake:
 <!--
